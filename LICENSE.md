@@ -1,4 +1,4 @@
-# 
+# DaVinci Resolve for PC | DaVinci Resolve for Windows new Filter: batch-processing & noise-reduction offers the most advanced DaVinci Resolve for PC | DaVinci Resolve for Windows
 
 
 
